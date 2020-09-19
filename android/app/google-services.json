@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "922870905280",
+    "firebase_url": "https://digitalsaloon-3097e.firebaseio.com",
+    "project_id": "digitalsaloon-3097e",
+    "storage_bucket": "digitalsaloon-3097e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922870905280:android:e1c2098c6da5a9b8a87025",
+        "android_client_info": {
+          "package_name": "com.example.digitalsaloon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922870905280-ie5llmj0e0a1tl1i7g8334vobccjd817.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digitalsaloon",
+            "certificate_hash": "e70c24eceefddecf04b9704b9e80bb0cdf5b2ecd"
+          }
+        },
+        {
+          "client_id": "922870905280-4v8msr5andlc0niqsmplgvv30kfr4bgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2-viuv5RvAKg2FEJQiGh248HCEE7FJ9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922870905280-4v8msr5andlc0niqsmplgvv30kfr4bgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
